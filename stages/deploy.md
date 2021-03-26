@@ -8,9 +8,9 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | UX  | System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |--------  |
-| Code compilation                       |         |         |         |         |          |          |
-| Unit test                    |         |         |         |         |         |          |
-| Code Analysis                |         |         |         |         |         |          |
+| Code compilation                      |     I    |      A  |     R  |     V    |         |       |
+| Unit test                    |     I    |     S    |    I     |   A, R   |         |         |
+| Code Analysis                |         |    S   |       R  |         |         |          |
 | Perform Test Deployment      |         |         |         |         |         |          |                        
 | Perform Production Deployment          |         |         |         |         |          |          |
 | Perform Canary Deployment    |         |         |         |         |         |          |
