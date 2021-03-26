@@ -6,11 +6,11 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Deploy  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |      Client   |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
+| Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | UX  | System administrator |
+|----------------------------- |-------- |-------- |-------- |-------- |-------- |--------  |
+| Task 1                       |         |         |         |         |         |          |
+| Task 2                       |         |         |         |         |         |          |
+| Task 3                       |         |         |         |         |         |          |
 | Task 4
 | Task 5
 | Task 6
@@ -18,3 +18,12 @@ Insert your description of the stage here
   
   
 [Home](../index.md)  
+
+
+• Client
+• Product owner
+• Developer
+• Tester
+• UX
+• System administrator
+
