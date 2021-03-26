@@ -11,19 +11,10 @@ Insert your description of the stage here
 | Task 1                       |         |         |         |         |         |          |
 | Task 2                       |         |         |         |         |         |          |
 | Task 3                       |         |         |         |         |         |          |
-| Task 4
-| Task 5
-| Task 6
-| Task 7         |         |         |
+| Task 4                       |         |         |         |         |         |          |                        
+| Task 5                       |         |         |         |         |         |          |
+| Task 6                       |         |         |         |         |         |          |
+| Task 7                       |         |         |         |         |         |          |
   
   
-[Home](../index.md)  
-
-
-• Client
-• Product owner
-• Developer
-• Tester
-• UX
-• System administrator
-
+[Home](../index.md)
