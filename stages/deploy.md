@@ -8,12 +8,12 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | UX  | System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |--------  |
-| Task 1                       |         |         |         |         |         |          |
-| Task 2                       |         |         |         |         |         |          |
-| Task 3                       |         |         |         |         |         |          |
-| Task 4                       |         |         |         |         |         |          |                        
-| Task 5                       |         |         |         |         |         |          |
-| Task 6                       |         |         |         |         |         |          |
+| Code compilation                       |         |         |         |         |          |          |
+| Unit test                    |         |         |         |         |         |          |
+| Code Anaylsis                |         |         |         |         |         |          |
+| Perform Test Deployment      |         |         |         |         |         |          |                        
+| Perform Production Deployment          |         |         |         |         |          |          |
+| Perform Canary Deployment    |         |         |         |         |         |          |
 | Task 7                       |         |         |         |         |         |          |
   
   
