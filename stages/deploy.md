@@ -11,7 +11,10 @@ Insert your description of the stage here
 | Task 1                       |      Client   |         |         |         |         |
 | Task 2                       |         |         |         |         |         |
 | Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Task 4
+| Task 5
+| Task 6
+| Task 7         |         |         |
   
   
 [Home](../index.md)  
