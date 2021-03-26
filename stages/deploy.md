@@ -10,7 +10,7 @@ Insert your description of the stage here
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |--------  |
 | Code compilation                       |         |         |         |         |          |          |
 | Unit test                    |         |         |         |         |         |          |
-| Code Anaylsis                |         |         |         |         |         |          |
+| Code Analysis                |         |         |         |         |         |          |
 | Perform Test Deployment      |         |         |         |         |         |          |                        
 | Perform Production Deployment          |         |         |         |         |          |          |
 | Perform Canary Deployment    |         |         |         |         |         |          |
