@@ -8,7 +8,7 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Deploy  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
+| Task 1                       |    Client     |         |         |         |         |
 | Task 2                       |         |         |         |         |         |
 | Task 3                       |         |         |         |         |         |
 | Task N                       |         |         |         |         |         |
