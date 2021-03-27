@@ -15,12 +15,12 @@ Containerization tools help to maintain consistency across the environments wher
 
 | Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | System administrator |Security Team
 |----------------------------- |-------- |-------- |-------- |--------  |--------  |---------
-| Code compilation             |      I   |     A,S    |   C      |    V     |    I      |    R      |
-| Unit test                    |     I    |     A,S    |    C     |    R      |    C      |    I      |
-| Code Analysis                |     I    |     S    |    R,A     |    C      |    I      |    I      |
-| Perform Test Deployment      |    I     |     S    |     A    |     R     |     C     |     I     |             
-| Perform Production Deployment |    I     |    S     |   A      |    C      |    R     |      I    |
-| Perform Canary Deployment    |    S     |    A     |   C      |    I     |   R       |     I     |
-  
+| Code compilation             |     I   |     I    |   A      |    S     |    I      |    I      |
+| Code complience             |      I   |     A, S    |   C      |    V     |    I      |    R      |
+| Unit test                    |     I    |     A, S    |    V     |    R      |    C      |    I      |
+| Code Analysis                |     I    |     S    |    R, A     |    C      |    I      |    I      |
+| Perform Test Deployment      |    I     |     S    |     C    |     A     |     V     |     R     |             
+| Perform Canary Deployment    |    V     |    A     |   C      |    I     |   R       |     C     |
+| Perform Production Deployment |    I     |    S     |   A      |    V      |    R     |      V    |  
   
 [Home](../index.md)
