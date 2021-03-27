@@ -15,7 +15,7 @@ Containerization tools help to maintain consistency across the environments wher
 
 | Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | System administrator |Security Team
 |----------------------------- |-------- |-------- |-------- |--------  |--------  |---------
-| Code compilation             |     I   |     I    |   A      |    S     |    I      |    I      |
+| Code compilation             |     I   |     S    |   A      |    v     |    I      |    C      |
 | Code complience             |      I   |     A, S    |   C      |    V     |    I      |    R      |
 | Unit test                    |     I    |     A, S    |    V     |    R      |    C      |    I      |
 | Code Analysis                |     I    |     S    |    R, A     |    C      |    I      |    I      |
