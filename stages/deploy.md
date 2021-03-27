@@ -6,6 +6,7 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
+<<<<<<<<< Temporary merge branch 1
 | Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | UX  | System administrator |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |--------  |
 | Code compilation                      |     I    |      A  |     R  |     V    |         |       |
@@ -15,6 +16,16 @@ Insert your description of the stage here
 | Perform Production Deployment          |         |         |         |         |          |          |
 | Perform Canary Deployment    |         |         |         |         |         |          |
 | Task 7                       |         |         |         |         |         |          |
+=========
+| Pipeline Stage:<br>Deploy  | Client  | Product owner | Developer  | Tester  | UX  | System administrator |Security Team
+|----------------------------- |-------- |-------- |-------- |-------- |-------- |--------  |---------
+| Code compilation             |      I   |     A,S    |   C      |    V     |    I     |    I      |    R      |
+| Unit test                    |     I    |     A,S    |    C     |    R     |    I     |    C      |    I      |
+| Code Analysis                |     I    |     S    |    R,A     |    C     |    I     |    I      |    I      |
+| Perform Test Deployment      |    I     |     S    |     A    |     R    |     I    |     C     |     I     |             
+| Perform Production Deployment     I     |    S     |   A      |    C     |     I    |    R     |      I    |
+| Perform Canary Deployment    |    S     |    A     |   C      |    I     |    I     |   R       |     I     |
+>>>>>>>>> Temporary merge branch 2
   
   
 [Home](../index.md)
